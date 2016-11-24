@@ -1,0 +1,27 @@
+{
+    "author": "whrl",
+    "dependencies": {},
+    "keywords": [],
+    "name": "timestack",
+    "pebble": {
+        "capabilities": [
+            "location"
+        ],
+        "displayName": "Timestack",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "57d287ea-e682-4f65-9534-6b3509bf5c67",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
